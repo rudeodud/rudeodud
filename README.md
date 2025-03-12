@@ -6,6 +6,9 @@
 
 hsk2급
 
+문의
+ssieo1569@gmail.com
+
 <!--
 **rudeodud/rudeodud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
