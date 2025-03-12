@@ -6,7 +6,6 @@
 
 hsk2급
 
-소속:세명컴퓨터고등학교
 <!--
 **rudeodud/rudeodud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
