@@ -14,19 +14,6 @@ AWS 기반 클라우드 인프라와 CI/CD 환경을 공부하고 있습니다.
 
 ---
 
-## About Me
-
-* AWS 기반 클라우드 인프라 구축
-* Docker와 Kubernetes를 활용한 컨테이너 환경 구성
-* Terraform을 활용한 인프라 자동화
-* Nginx를 활용한 웹 서버 및 리버스 프록시 구성
-* Splunk를 활용한 로그 수집 및 데이터 분석
-* Express를 활용한 백엔드 API 개발
-* Linux 및 macOS 환경에서의 개발과 서버 관리
-* Git을 활용한 버전 관리 및 협업
-
----
-
 ## Tech Stack
 
 ### Cloud & Infrastructure
