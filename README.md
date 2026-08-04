@@ -87,7 +87,7 @@ DevOps
 ## 📜 Certifications
 
 * 🖥️ 정보기기운용기능사
-* 🇨🇳 HSK ?급
+* 🇨🇳 HSK 2급
 
 ---
 
