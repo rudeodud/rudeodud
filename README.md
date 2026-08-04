@@ -1,11 +1,3 @@
-<div align="center">
-
-### Cloud Infrastructure · AWS · CI/CD · Automation
-
-클라우드 인프라와 자동화에 관심을 가지고 공부하고 있습니다.
-AWS 환경에서 안정적인 서비스를 구축하고,
-CI/CD를 통해 개발과 배포 과정을 자동화하는 DevOps 엔지니어를 목표로 합니다.
-
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-rudeodud-181717?style=for-the-badge\&logo=github)](https://github.com/rudeodud)
