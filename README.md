@@ -1,7 +1,5 @@
 <div align="center">
 
-# ☁️ 안녕하세요, DevOps 엔지니어를 꿈꾸는 경대영입니다
-
 ### Cloud Infrastructure · AWS · CI/CD · Automation
 
 클라우드 인프라와 자동화에 관심을 가지고 공부하고 있습니다.
