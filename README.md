@@ -112,6 +112,9 @@ Operations
 
 ---
 
+## email
+ssieo1569@gmail.com
+
 <div align="center">
 
 **Building reliable infrastructure through automation.**
