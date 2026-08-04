@@ -107,17 +107,6 @@ DevOps
 
 </div>
 
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rudeodud/rudeodud/output/github-contribution-grid-snake-dark.svg">
-
-</div>
-
----
 
 ## 🔗 Links
 
@@ -130,7 +119,6 @@ DevOps
 
 <div align="center">
 
-### 꾸준히 공부하고, 직접 구축하며 성장하고 있습니다.
 
 **Build · Automate · Deploy · Improve**
 
